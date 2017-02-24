@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/Home"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item android:id="@+id/Search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@drawable/search_icon"/>
+    <item android:id="@+id/Play_store"
+        android:title="PlayStore"
+        app:showAsAction="always"
+        android:icon="@drawable/google_play_store"/>
+    <item android:id="@+id/Exit"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

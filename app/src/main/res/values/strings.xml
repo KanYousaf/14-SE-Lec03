@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Software14</string>
+    <string-array name="tmnt_item_array">
+        <item>Choose any Item</item>
+        <item>Don</item>
+        <item>Raph</item>
+        <item>Leo</item>
+        <item>Mike</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="tmnt_item_array_details">
+        <item>Click Click</item>
+        <item>Hello I am Don</item>
+        <item>Hello I am Raph</item>
+        <item>Hello I am Leo</item>
+        <item>Hello I am Mike</item>
+        <item>None None None</item>
+    </string-array>
+
 </resources>
